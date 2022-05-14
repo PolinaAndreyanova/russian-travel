@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-## Посмотреть:
+## Посмотреть: https://polinaandreyanova.github.io/russian-travel/index.html
 
 ### Обзор
 
