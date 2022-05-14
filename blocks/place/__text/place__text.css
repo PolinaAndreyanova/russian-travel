@@ -4,7 +4,7 @@
   grid-row: 3;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 650px) {
   .place__text {
     margin: 32px 16px 0;
   }

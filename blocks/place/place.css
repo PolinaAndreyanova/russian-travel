@@ -17,14 +17,14 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 850px) {
   .place {
     margin: 73px 0 0;
     gap: 48px 28px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 650px) {
   .place {
     margin: 50px 0 0;
     display: block;
